@@ -1,0 +1,33 @@
+/* Untuk Smartphone */
+@media all and (max-width: 670px) {
+
+  .lesson {
+    width: 100%;
+  }
+  .header-right {
+    display: none;
+  }
+
+  footer {
+    text-align: center;
+  }
+
+  .botton {
+    width: 100%;
+  }
+  .button-facebook {
+    margin-bottom: 10px;
+  }
+  .menu-icon {
+    display: block;
+  }
+    .top-header h1 {
+    font-size: 24px;
+    line-height: 36px;
+  }
+
+  .top-header p {
+    font-size: 14px;
+    line-height: 20px;
+  }
+}
